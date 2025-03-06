@@ -1,0 +1,3 @@
+[submodule "authService"]
+	path = authService
+	url = git@github.com:ebosh-alt/authService.git
