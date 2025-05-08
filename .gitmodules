@@ -1,3 +1,7 @@
 [submodule "authService"]
 	path = authService
 	url = git@github.com:ebosh-alt/authService.git
+
+[submodule "telegramBotService"]
+        path = telegramBotService
+        url = git@github.com:ebosh-alt/telegramBotService.git
